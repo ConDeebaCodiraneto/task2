@@ -1,0 +1,15 @@
+D:\Информатика\task1_mihail\task1_mihail\bin\Debug\net7.0\task1_mihail.exe
+D:\Информатика\task1_mihail\task1_mihail\bin\Debug\net7.0\task1_mihail.deps.json
+D:\Информатика\task1_mihail\task1_mihail\bin\Debug\net7.0\task1_mihail.runtimeconfig.json
+D:\Информатика\task1_mihail\task1_mihail\bin\Debug\net7.0\task1_mihail.dll
+D:\Информатика\task1_mihail\task1_mihail\bin\Debug\net7.0\task1_mihail.pdb
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.csproj.AssemblyReference.cache
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.AssemblyInfoInputs.cache
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.AssemblyInfo.cs
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.csproj.CoreCompileInputs.cache
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.dll
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\refint\task1_mihail.dll
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.pdb
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\task1_mihail.genruntimeconfig.cache
+D:\Информатика\task1_mihail\task1_mihail\obj\Debug\net7.0\ref\task1_mihail.dll
